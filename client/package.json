@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@types/lodash": "^4.17.6",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "node-yaml-parser": "^0.0.9",
         "vscode-languageclient": "~9.0.1",
         "vscode-uri": "^3.0.8"
